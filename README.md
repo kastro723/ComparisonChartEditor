@@ -15,15 +15,16 @@
                    - ComparisonChartEditor 기능 구현
 
 -------------------------------------------------------------------------------------
-![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/759d391e-a9df-44a9-b8a3-6889f0c2777b)![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/a122d36b-c6bb-4ea2-afa3-67b4a9107532)![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/132240be-7e63-4ab9-b743-bd20b603ba9f)
+![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/759d391e-a9df-44a9-b8a3-6889f0c2777b)![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/132240be-7e63-4ab9-b743-bd20b603ba9f)
 
 
 
     [기능설명]
     
-            지정된 Picker의 위치에 따라 Bubble(Bg)과 Text의 크기와 위치를 조정하는 다양한 기능을 제공
+            스크립터블 오브젝트를 통한  Parameter(a,b,c,d)를 추가해서 공식을 통한 Chart를 볼 수 있다.
+            여러 개의 차트를 비교해볼 수 있고, 원하는 값의 차트를 CSV 파일로 Export 할 수 있는 기능을 지원한다.
 
-            션 설정
+            옵션 설정
             Bubble(Bg)의 확장 유형(MoveType)을 지원하여, Text의 크기 및 길이에 따른 Bubble의 확장 방향 설정
             Bubble(Bg) 내에서 Text Box의 정렬 유형(TextSort)을 설정
                 (Left, Center, Right 방향으로 Bg 내에서 Text Box의 위치를 조정 가능)
