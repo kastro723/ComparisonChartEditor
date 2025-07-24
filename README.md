@@ -16,11 +16,11 @@
 
 -------------------------------------------------------------------------------------
 ![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/759d391e-a9df-44a9-b8a3-6889f0c2777b)
-[메인 차트 뷰어]
+ [메인 차트 뷰어]
 
 
 ![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/132240be-7e63-4ab9-b743-bd20b603ba9f)
-[서브 차트 세팅 에디터]
+ [서브 차트 세팅 에디터]
 
 
     [기능설명]
