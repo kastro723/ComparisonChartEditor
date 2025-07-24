@@ -24,6 +24,7 @@
 ![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/132240be-7e63-4ab9-b743-bd20b603ba9f)                             
 [서브 차트 세팅 에디터]
 
+<p>&nbsp;</p>
 
 
     [기능설명]
