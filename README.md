@@ -20,8 +20,7 @@
 
 //
 
-![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/132240be-7e63-4ab9-b743-bd20b603ba9f)
-[서브 차트 세팅 에디터]
+![image](https://github.com/kastro723/ComparisonChartEditor/assets/55536937/132240be-7e63-4ab9-b743-bd20b603ba9f) \n[서브 차트 세팅 에디터]
 
 
     [기능설명]
